@@ -1,0 +1,416 @@
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\ApplicationInsights.config
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe.config
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.rsp
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.exe
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.rsp
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.AppContext.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe.config
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.rsp
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll.config
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\WebGrease.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.xml
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.csprojResolveAssemblyReference.cache
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.pdb
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\ApplicationInsights.config
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe.config
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.rsp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.exe
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.rsp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.AppContext.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe.config
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.rsp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.pdb
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\mscorlib.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.WebRequest.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\WebGrease.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.WebRequest.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.pdb
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.xml
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\es\mscorlib.resources.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\es\System.Net.Http.resources.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\es\System.Net.Http.WebRequest.resources.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normidna.nlp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfc.nlp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfd.nlp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfkc.nlp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfkd.nlp
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.csprojResolveAssemblyReference.cache
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.dll
+E:\CEPRE UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.pdb
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.pdb
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\mscorlib.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\es\mscorlib.resources.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normidna.nlp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfc.nlp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfd.nlp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfkc.nlp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfkd.nlp
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.pdb
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.pdb
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Repositorio.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Repositorio.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\ApplicationInsights.config
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe.config
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.rsp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.exe
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.rsp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.AppContext.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe.config
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.rsp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\mscorlib.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\WebGrease.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Repositorio.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.xml
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Repositorio.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\es\mscorlib.resources.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normidna.nlp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfc.nlp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfd.nlp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfkc.nlp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\normnfkd.nlp
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.csprojResolveAssemblyReference.cache
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\ApplicationInsights.config
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.exe.config
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csc.rsp
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.exe
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\csi.rsp
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.exe.config
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\vbc.rsp
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll.config
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Web.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\WebGrease.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Repositorio.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Dominio.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Modelo.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Newtonsoft.Json.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Helpers.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Mvc.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Optimization.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.Razor.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\bin\Uncp.Cepre.Repositorio.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.csprojResolveAssemblyReference.cache
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.csproj.CoreCompileInputs.cache
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Web\obj\Debug\Uncp.Cepre.Web.pdb

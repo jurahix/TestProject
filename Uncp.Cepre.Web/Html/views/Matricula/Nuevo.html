@@ -1,0 +1,156 @@
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+
+        <ol class="breadcrumb">
+            <li>
+                <a ui-sref="Matricula.Lista">Matricula</a>
+            </li>
+            <li class="active">
+                <strong>Nuevo</strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <h5>NUEVA MATRICULA</h5>
+
+                    <div ibox-tools></div>
+                </div>
+                <div class="ibox-content wizard">
+                    <h2>
+
+                    </h2>
+
+<!--                    <p> Proceso de Matrícula<br/> </p>
+                    <div class="steps clearfix">
+                        <ul>
+
+                            <li ui-sref-active="current">
+                                <a ui-sref=".step_one" class="btn-default"><span>1</span> Pre-Registro</a>
+                            </li>
+                            <li ui-sref-active="current">
+                                <a ui-sref=".step_two" class="btn-default"><span>2</span> Registro de Voucher de Pago</a>
+                            </li>
+                            <li ui-sref-active="current">
+                                <a ui-sref=".step_three" class="btn-default"><span>3</span> Validación de Boucher de pago</a>
+                            </li>
+                        </ul>
+                    </div>-->
+
+                    <div class="row">
+                        <form action="">
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Cod. de Estudiante</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-user">  </i></span>
+                                <input class="form-control" maxlength="8" minlength="8" placeholder="Cod. de Estudiante" autocomplete="off" ng-model="oDatos.cliente.Dni" type="text" required="">
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Area</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-transfer">  </i></span>
+                                <select class="form-control" required="" name="cmb-turno">
+                                    <option value="">-- Seleccione --</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Facultad</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-transfer">  </i></span>
+                                <select class="form-control" required="" name="cmb-turno">
+                                    <option value="">-- Seleccione --</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Carrera Profesional</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-transfer">  </i></span>
+                                <select class="form-control" required="" name="cmb-turno">
+                                    <option value="">-- Seleccione --</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Turno</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-transfer">  </i></span>
+                                <select class="form-control" required="" name="cmb-turno">
+                                    <option value="">-- Seleccione --</option>
+                                    <option value="Mañana">Mañana</option>
+                                    <option value="Tarde">Tarde</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Cod. de Local</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-tower">  </i></span>
+                                <input class="form-control" maxlength="8" minlength="8" placeholder="Local" autocomplete="off" ng-model="oDatos.cliente.Dni" type="text" required="">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Cod. de Aula</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-education">  </i></span>
+                                <input class="form-control" maxlength="8" minlength="8" placeholder="Aula" autocomplete="off" ng-model="oDatos.cliente.Dni" type="text" required="">
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Grupo</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength" id="txt-nombres" name="txt-nombres" maxlength="50" placeholder="Grupo" autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text">
+                            </div>
+                        </div>
+
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Voucher</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-calendar">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength" id="txt-nombres" name="txt-nombres" maxlength="50" placeholder="Codigo de Voucher"  autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text">
+                            </div>
+                        </div>
+
+                        <center>
+                            <div class="form-group ">
+                            <div class="input-group">
+                            <button type="submit" class="btn btn-primary"><i class="glyphicon glyphicon-saved" ></i> Guardar Matricula</button>
+                            <a ui-sref="Matricula.Lista" class="btn btn-danger" style="margin-left: 5px;"><i class="glyphicon glyphicon-remove"></i> Cancelar</a>
+                            </div>
+                            </div> 
+                        </center>                            
+                        </form>
+                    </div>
+
+                    <div class="wizard">
+                        <div class="content">
+
+                            <form name="signupForm" ng-submit="processForm()" class="p-lg">
+                                      
+                                <!-- our nested state views will be injected here -->
+                                <div id="form-views" ui-view></div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

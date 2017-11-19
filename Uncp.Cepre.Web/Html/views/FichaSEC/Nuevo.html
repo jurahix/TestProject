@@ -1,0 +1,57 @@
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+
+        <ol class="breadcrumb">
+            <li>
+                <a ui-sref="Fichasec.Lista">Ficha SEC</a>
+            </li>
+            <li class="active">
+                <strong>Nuevo </strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-10">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <h5>REGISTRO DE NUEVA PREGUNTA </h5>
+                    <div ibox-tools></div>
+                </div>
+
+                <div class="ibox-content">
+
+                    <div class="row">
+                        <form action="">
+
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Pregunta de la Ficha</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-random">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-nombres" maxlength="100" placeholder="Pregunta de la Ficha" autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text" required="">
+                            </div>
+                        </div>
+
+                        <center>
+                            <div class="form-group ">
+                            <div class="input-group">
+                            <button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-saved" ></i> Guardar Pregunta</button>
+                            <a ui-sref="Fichasec.Lista" class="btn btn-warning" style="margin-left: 5px;"><i class="glyphicon glyphicon-remove"></i> Cancelar</a>
+                            </div>
+                            </div> 
+                        </center>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+              
+
+
+    </div>
+</div>

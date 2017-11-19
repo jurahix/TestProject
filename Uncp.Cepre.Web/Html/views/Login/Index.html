@@ -1,0 +1,65 @@
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+        <ol class="breadcrumb">
+            <li>
+                <a ui-sref="Login.Index">Acceso al Sistema</a>
+            </li>
+            <li class="active">
+                <strong>Login </strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row"><br><br>
+    <div class="col-lg-2 col-md-2"></div>
+        <div class="col-lg-8">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <h5>ACCEDER AL SISTEMA </h5>
+                    <div ibox-tools></div>
+                </div>
+
+                <div class="ibox-content">
+
+                    <div class="row">
+                        <form action="">
+
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">DNI</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-user">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength" id="txt-nombres" name="txt-nombres" maxlength="50" placeholder="N° DNI"  autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text" required="">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Contraseña</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-unlock-alt">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength" id="txt-nombres" name="txt-nombres" maxlength="50" placeholder="Contraseña"  autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text" required="">
+                            </div>
+                        </div>
+                        
+                        <center>
+                            <div class="form-group ">
+                            <div class="input-group">
+                            <button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-log-in" ></i> Iniciar Sesion</button>
+                            <a ui-sref="Estudiante.Nuevo" class="btn btn-primary" style="margin-left: 5px;"><i class="glyphicon glyphicon-pencil"></i> Registrarse</a>
+                            </div>
+                            </div> 
+                        </center>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+              
+
+
+    </div>
+</div>

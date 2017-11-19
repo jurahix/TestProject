@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.pdb
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.dll
+C:\Users\Usuario\Desktop\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.pdb
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.csprojResolveAssemblyReference.cache
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.dll
+D:\Proyectos\2017\UNCP\CEPRE\WebApi\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.pdb
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.csprojResolveAssemblyReference.cache
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.dll
+D:\Uncp.Cepre.Web\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Modelo\bin\Debug\Uncp.Cepre.Modelo.pdb
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.dll
+C:\Users\Victor Poma\Downloads\Uncep Cepre 5\Uncep Cepre 5\Uncp.Cepre.Web\Uncp.Cepre.Modelo\obj\Debug\Uncp.Cepre.Modelo.pdb

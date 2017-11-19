@@ -1,0 +1,119 @@
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+
+        <ol class="breadcrumb">
+            <li>
+                <a href="index.html">Estudiante</a>
+            </li>
+            <li class="active">
+                <strong>Nuevo - Datos Personales</strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight" ng-controller="EstudianteCtrl as oEstudiante" ng-init="oEstudiante.Init()">
+    <div class="row">
+        <div class="col-lg-10">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <h5>DATOS DEL ESTUDIANTE </h5>
+                    <div ibox-tools></div>
+                </div>
+
+                <div class="ibox-content">
+                    <div class="row">
+                            <ul class="nav nav-tabs">
+                              <li role="presentation" class="active"><a ui-sref="Estudiante.Nuevo">Datos Personales</a></li>
+                              <li role="presentation"><a ui-sref="Estudiante.Parentezco">Padres / Apoderado</a></li>
+                              <li role="presentation"><a ui-sref="Estudiante.Contacto">Contacto de Padres / Apoderado</a></li>
+                            </ul>
+                    </div><br>
+
+
+                    <div class="row">
+                        <form action="">
+                            <div class="form-group ">
+                            <label class="col-lg-3 control-label">N° de Documento</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-user">  </i></span>
+                                <input class="form-control" maxlength="8" minlength="8" placeholder="N° de Documento" autocomplete="off" ng-model="oEstudiante.Dni" type="text" required=""  ng-change="oEstudiante.BuscarPorDni()">
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Apellido Paterno</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                <input class="form-control"  name="txt-apaterno" maxlength="50" placeholder="Apellido Parterno" autocomplete="off" ng-model="oEstudiante.Estudiante.Apellidos" type="text" required="">
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Primer Nombre</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-pnombre" maxlength="50" placeholder="Primer Nombre" autocomplete="off" ng-model="oEstudiante.Estudiante.PrimerNombre" type="text" required="">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Segundo Nombre</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-snombre" maxlength="50" placeholder="Segundo Nombre" autocomplete="off" ng-model="oEstudiante.Estudiante.SegundoNombre" type="text" required="">
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Genero</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-list">  </i></span>
+                                <select class="form-control" required="" ng-model="oEstudiante.Genero" ng-options="genero.Descripcion for genero in oEstudiante.Generos track by genero.CodigoGenero"
+                                 ng-change=""       
+                                 >
+                                    <option value="">-- Seleccione --</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Fecha de Nacimiento</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-calendar">  </i></span>
+                                <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="dt-fecha" maxlength="50"  autocomplete="off" ng-model="oEstudiante.Estudiante.FechaNacimiento" type="date" required="">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label class="col-lg-3 control-label">Lugar de Nacimiento</label>
+                            <div class="input-group" ng-controller="UbigeoCtrl as oUbigeo">
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-map-marker">  </i></span>
+
+                                <select class="form-control" required="" ng-model="oEstudiante.Ubigeo" ng-options="distrito.Nombre for distrito in oUbigeo.Distritos track by distrito.Distrito"
+                                        ng-change="">
+                                    <option value="">-- Seleccione --</option>
+
+                                </select>
+                            </div>
+                        </div>
+
+                        <center>
+                            <div class="form-group ">
+                            <div class="input-group">
+                            <button type="button" class="btn btn-success" ng-click="oEstudiante.GuardarEstudiante()"><i class="glyphicon glyphicon-saved" ></i> Guardar</button>
+                            <a href="index.html" class="btn btn-warning" style="margin-left: 5px;"><i class="glyphicon glyphicon-remove"></i> Cancelar</a>
+                            </div>
+                            </div> 
+                        </center>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+              
+
+
+    </div>
+</div>

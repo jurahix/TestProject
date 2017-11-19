@@ -3,3 +3,9 @@
 ################################################################################
 
 /Cepre.BaseDatos/obj/Debug/Cepre.BaseDatos.dll
+/Cepre.BaseDatos/obj/Debug/Cepre.BaseDatos.sqlproj.FileListAbsolute.txt
+/Cepre.BaseDatos/CARRERAS.sql
+/Cepre.BaseDatos/Cepre.BaseDatos.dbmdl
+/Cepre.BaseDatos/Cepre.BaseDatos.sqlproj
+/Cepre.BaseDatos/CARRERAS.sql
+*.dbmdl

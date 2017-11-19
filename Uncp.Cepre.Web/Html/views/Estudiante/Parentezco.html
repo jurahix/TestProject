@@ -1,0 +1,157 @@
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+
+        <ol class="breadcrumb">
+            <li>
+                <a href="index.html">Estudiante</a>
+            </li>
+            <li class="active">
+                <strong>Nuevo - Parentezco</strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <h5>DATOS DEL ESTUDIANTE </h5>
+                    <div ibox-tools></div>
+                </div>
+
+                <div class="ibox-content">
+                    <div class="row">
+                            <ul class="nav nav-tabs">
+                              <li role="presentation"><a ui-sref="Estudiante.Nuevo">Datos Personales</a></li>
+                              <li role="presentation" class="active"><a ui-sref="Estudiante.Parentezco">Padres / Apoderado</a></li>
+                              <li role="presentation"><a ui-sref="Estudiante.Contacto">Contacto de Padres / Apoderado</a></li>
+                            </ul>
+                    </div><br>
+
+
+                    <div class="row">
+                        <form action="">
+                            <input class="form-control" ng-model="oDatos.cliente.Dni" type="hidden"  name="txt-documento">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Tipo de Parentezco</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-list">  </i></span>
+                                        <select class="form-control" required="" name="cmb-parentezco">
+                                            <option value="">-- Seleccione --</option>
+                                        </select>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Apellido Paterno</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                        <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-apaterno" maxlength="50" placeholder="Apellido Parterno" autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text" required="">
+                                    </div>
+                                </div> 
+                                </div>
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Apellido Materno</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                        <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength" name="txt-amaterno" maxlength="50" placeholder="Apellido Materno" autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text" required="">
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Primer Nombre</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                        <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-pnombre" maxlength="50" placeholder="Primer Nombre" autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text" required="">
+                                    </div>
+                                    </div>
+                                </div>
+                                <div  class="col-lg-6 col-md-6">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Segundo Nombre</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-th-large">  </i></span>
+                                        <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-snombre" maxlength="50" placeholder="Segundo Nombre" autocomplete="off" ng-model="oDatos.cliente.Nombres" type="text">
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Genero</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-list">  </i></span>
+                                        <select class="form-control" required="" name="cmb-genero">
+                                            <option value="">-- Seleccione --</option>
+                                            <option value="Masculino">Masculino</option>
+                                            <option value="Femenino">Femenino</option>
+                                        </select>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Fecha de Nacimiento</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-calendar">  </i></span>
+                                        <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="dt-fecha" maxlength="50"  autocomplete="off" ng-model="oDatos.cliente.Fecha" type="date" required="">
+                                    </div>
+                                    </div>
+                                </div>  
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group ">
+                                    <label class="exampleInputEmail1">Lugar de Nacimiento</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-calendar">  </i></span>
+                                        <input class="form-control ng-pristine ng-untouched ng-valid ng-valid-maxlength"  name="txt-lnacim" maxlength="50" placeholder="Lugar de Nacimiento"  autocomplete="off" ng-model="oDatos.cliente.Nombres" type="number" required="">
+                                    </div>
+                                    </div>
+                                </div>                                                                
+                            </div>
+
+                        <center>
+                            <div class="form-group ">
+                            <div class="input-group">
+                            <button type="button" class="btn btn-success" > + Nuevo</button>
+                            <button type="submit" class="btn btn-primary" style="margin-left: 5px;"><i class="glyphicon glyphicon-saved"></i> Guardar Informacion</button>
+                            </div>
+                            </div> 
+                        </center>
+                        </form>
+                        
+                        <table class="table">
+                            <thead>
+                                <th>Parentezco</th>
+                                <th>Nombres</th>
+                                <th>Genero</th>
+                                <th>Fecha de Nacimiento</th>
+                                <th>Ubicación</th>
+                            </thead>
+                            <tbody>
+                                
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+              
+
+
+    </div>
+</div>
